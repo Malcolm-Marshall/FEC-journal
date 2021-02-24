@@ -12,5 +12,6 @@ This gist details the decisions I made, the tests I conducted, the observations 
 
 
 ### Daily Summary
-#### FEC Team USE
-[02-23-21](#file-02-23-21-md)
+#### FEC Team USA
+[02-23-21](./Entries/02-23-21)
+[02-24-21](./Entries/02-24-21)
