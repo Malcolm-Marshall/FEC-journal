@@ -15,3 +15,4 @@ This gist details the decisions I made, the tests I conducted, the observations 
 #### FEC Team USA
 [02-23-21](./Entries/02-23-21.md)
 [02-24-21](./Entries/02-24-21.md)
+[03-01-21](./Entries/03-01-21.md)
